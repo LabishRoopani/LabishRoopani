@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0f3460&height=220&section=header&text=Labish%20Roopani&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20Engineer%20%7C%20Mobile%20%26%20Automation%20Developer&descAlignY=57&descSize=17&descColor=8b949e"/>
+<img width="100%" src="./banner.svg" alt="Labish Roopani — Flutter & AI Developer"/>
 
 </div>
 
