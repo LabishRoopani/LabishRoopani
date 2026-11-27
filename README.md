@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./banner.svg" alt="Labish Roopani — Flutter & AI Developer"/>
+<img width="100%" src="https://raw.githubusercontent.com/LabishRoopani/LabishRoopani/main/banner.svg" alt="Labish Roopani — Flutter & AI Developer"/>
 
 </div>
 
@@ -175,10 +175,24 @@ Mobile game built in Unity with physics-based mechanics, level design, and a pol
 
 ## ClusterCrew Studio Work
 
-> 🏢 **ClusterCrew** is the AI & digital studio I co-founded. We take on client projects, build software products, and ship real work. These are built as a team.
+> 🏢 **ClusterCrew** is the AI & digital studio I co-founded with [Abdul Sattar](https://github.com/Abdul-Sattar77). We build digital products, take on client projects, and ship real work — together.
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🌐 ClusterCrew — Studio Website
+
+The official product and services site for ClusterCrew — the AI & digital studio I co-founded. Built with Next.js, Tailwind CSS, and deployed on Vercel with 40+ production deployments.
+
+**Solves** the need for a professional studio presence that showcases our AI, automation, and development services.  
+**Notable** I am a core contributor — TypeScript codebase, production-deployed and actively maintained.
+
+`Stack` &nbsp;![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[→ View project](https://github.com/Abdul-Sattar77/clustercrew-website)
+
+</td>
 <td width="50%" valign="top">
 
 ### 💌 WhisperCard — Interactive 3D Digital Cards
@@ -193,6 +207,8 @@ A web app that lets users create passcode-locked 3D digital greeting cards with 
 [→ View project](https://github.com/LabishRoopani/proassignment)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📝 React Native Notes App
@@ -207,8 +223,6 @@ A full-featured cross-platform notes application built with Expo and React Nativ
 [→ View project](https://github.com/LabishRoopani/proassignment)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📦 ClusterCrew — Client Deliveries
@@ -219,18 +233,6 @@ End-to-end software deliveries for paying clients — MoodTracker mobile app, da
 **Notable** 6+ successful project deliveries across mobile, web, and data domains.
 
 `Stack` &nbsp;![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 E-Commerce Sales Analysis (R)
-
-Statistical analysis and visualization of online shoppers' purchase intention data — revenue patterns, bounce rates, traffic conversion, and visitor segmentation.
-
-**Solves** the need for data-driven insight into what drives online purchase decisions.  
-**Notable** full R pipeline — cleaning, correlation matrices, regression, and publication-ready visualizations.
-
-`Stack` &nbsp;![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-grey?style=flat-square) ![CSV](https://img.shields.io/badge/Data_Analysis-green?style=flat-square)
 
 </td>
 </tr>
